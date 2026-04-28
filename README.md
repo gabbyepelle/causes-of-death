@@ -11,7 +11,9 @@ Mississippi had the highest average heart disease death rate (277.1), more than 
 3. Overall mortality has improved since 1999
 1999 saw the highest average age-adjusted death rate at 69.81. Rates declined steadily over the following 18 years, reflecting broad public health progress.
 4. Most causes improved, but not all
-Of the 9 causes tracked, 6 improved since 1999 while 3 got worse — Alzheimer’s disease (+14.5), unintentional injuries (+14.1), and suicide both increased, reflecting broader national crises in aging, accidents, and mental health.Queries Included
+Of the 9 causes tracked, 6 improved since 1999 while 3 got worse — Alzheimer’s disease (+14.5), unintentional injuries (+14.1), and suicide both increased, reflecting broader national crises in aging, accidents, and mental health.
+
+Queries Included
 	∙	data_exploration.sql — data validation and structure check
 	∙	state_and_national_trends.sql — year-over-year trends by cause
 	∙	nsights.sql — headline findings summary
